@@ -3,7 +3,8 @@ python:alpine3.19
 kasmweb/nginx:1.25.3
 postgres:12
 hasura/graphql-engine:v1.3.3
-prefecthq/server:core-latestprefecthq/ui:core-latest
+prefecthq/server:core-latest
+prefecthq/ui:core-latest
 prefecthq/towel:core-latest
 prefecthq/scheduler:core-latest
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
