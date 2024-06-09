@@ -3,6 +3,5 @@ python:alpine3.19
 kasmweb/nginx:1.25.3
 postgres:12
 hasura/graphql-engine:v1.3.3
-prefecthq
+prefecthq/prefect
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
-
