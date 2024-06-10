@@ -5,4 +5,4 @@ postgres:12
 hasura/graphql-engine:v1.3.3
 prefecthq/prefect:2.1.1-python3.10
 eosphorosai/dbgpt
---platform linux/arm64 cooderl/wewe-rss-sqlite:latest
+cooderl/wewe-rss-sqlite:latest
