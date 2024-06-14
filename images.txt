@@ -7,3 +7,6 @@ prefecthq/prefect:2.1.1-python3.10
 eosphorosai/dbgpt
 cooderl/wewe-rss-sqlite:latest
 mysql
+nacos/nacos-server
+rabbitmq
+redis
