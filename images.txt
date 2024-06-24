@@ -14,4 +14,4 @@ postgres:16
 mysql:5.7
 mysql:8.0.37
 metabase/metabase:latest
-metabase/metabase:0.44.0
+metabase/metabase:v0.44.0
