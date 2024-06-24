@@ -11,3 +11,4 @@ nacos/nacos-server:v2.1.0
 rabbitmq:3.9.15-management 
 redis:latest
 portainer/agent:2.16.2
+postgres:16
