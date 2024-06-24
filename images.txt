@@ -1,14 +1,15 @@
 alpine
 python:alpine3.19
 kasmweb/nginx:1.25.3
-postgres:12
 hasura/graphql-engine:v1.3.3
 prefecthq/prefect:2.1.1-python3.10
 eosphorosai/dbgpt
 cooderl/wewe-rss-sqlite:latest
-mysql:5.7
 nacos/nacos-server:v2.1.0
 rabbitmq:3.9.15-management 
 redis:latest
 portainer/agent:2.16.2
+postgres:12
 postgres:16
+mysql:5.7
+mysql:8.0.37
