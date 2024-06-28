@@ -16,3 +16,4 @@ mysql:8.0.37
 metabase/metabase:latest
 metabase/metabase:v0.44.0
 gitlab/gitlab-ee:10.1.2-ee.0
+jenkins/jenkins:2.346.3-2-lts-jdk8
